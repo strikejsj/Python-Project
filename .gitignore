@@ -1,0 +1,35 @@
+#=> exe files
+*.dll
+*.exe
+*.o
+*.so
+*.com
+*.class
+
+#=> logs
+*.log
+
+#=> docs
+*.pdf
+*.docs
+*.ppt
+*.pptx
+
+#=> package files
+*.dmg
+*.iso
+*.tar
+*.zip
+*.gz
+
+#=> OS system files
+.Trashes
+.Thumbs.db
+.ehthumbs.db
+
+#=> VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
